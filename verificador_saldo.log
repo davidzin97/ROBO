@@ -1,0 +1,81 @@
+[2026-06-22 15:51:00] INFO - 
+=== AUTOMATED BALANCE CHECKER ===
+[2026-06-22 15:51:00] INFO -   Diretório : C:\Users\Liedson\Desktop\API\contas
+[2026-06-22 15:51:00] INFO -   Filtro    : pgvip
+[2026-06-22 15:51:00] INFO -   Paralelo  : 200
+[2026-06-22 15:51:00] INFO -   Quantidade: Todas as contas
+[2026-06-22 15:51:00] INFO -   Proxy     : ATIVADO
+[2026-06-22 15:51:00] INFO -   Contas    : 62
+[2026-06-22 15:51:00] INFO - 
+[2026-06-22 15:51:00] INFO - Verificando proxy...
+[2026-06-22 15:51:02] INFO - Proxy funcionando! IP: 177.11.133.118
+[2026-06-22 15:51:02] INFO - 
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: Saldo225-Bet10_00-grasielleyaayf_SPIRITOFADVENTURE-EXCELENTE.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: Saldo44-Bet10_00-marjoriehnjbiud_SPIRITOFADVENTURE-EXCELENTE.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: Saldo5-Bet10_00-alicewbgttrz_SPIRITOFADVENTURE-EXCELENTE.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: Saldo9-Bet10_00-cezarpocmetbd_SPIRITOFADVENTURE-EXCELENTE.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 100-anastaciamhjgy.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 100-fernandoxcgixdsx.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 100-lidianepohin.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 100-lorrainepqyekpc.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 100-nataliacsgqa.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 100-quiteriatabbry.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 100-rodolfoelcytdhd.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 100-theodorokzxabhhu.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 101-federicouxep.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 102-alexsdvnvjlyfszm.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 104-daniloddgfmfc.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 104-neliozwukmpkrnj.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 109-heloavcdgdxuj.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 111-kauaneszgpzzcn.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 114-jaquelinejeur.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 115-brigitelkbjxhf.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 122-joelinappcrtl.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 127-braulioxvjjdz.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 127-lairtonxusuxknjs.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 136-cesargghptvq.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 152-cristiangrvacudi.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 153-abimaeluzapplbkn.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 154-cristalepdxssl.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 154-hellenlcmevcytfq.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 16-beniciokznihb.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 166-nataliakderkjky.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 168-manuelabwrzafv.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 180-elizabeteadqbpcd.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 181-luarazweipbcyivi.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 199-talescnbkmvee.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 200-rodrigogkuxbi.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 201-cicerourtdckptw.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 202-gilmardpfsotbj.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 203-belauytsxdrhr.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 225-joaquimsrcng.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 254-jadielbofjhiu.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 2564-nathaliahjkhewqb.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 267-flavianeqnldsyjh.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 301-eloaccnloswomdq.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 308-elisafsaymlohgom.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 314-elielctqbudwhd.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 319-yasminzmyculnwoh.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 321-cristianebkm.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 403-zaqueurrumzna.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 409-deniselwkfbei.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 410-ianyoscsuhswe.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 440-carlosxbwrrvuh.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 450-heraldocuczqqg.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 450-ubirajaracbhmg.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 480-gisellexeodk.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 484-fernandaaemaleqn.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 499-liciaanejkoicuej.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 505-helenacjubhiu.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 525-elenozghknrd.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 531-reginaldorkqjuu.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 604-eloisezvepbl.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 643-ferdinandokrn.txt
+[2026-06-22 15:51:02] ERROR - [15:51:02] ERRO    | Arquivo inválido ou corrompido: 841-janiaratyinmr.txt
+[2026-06-22 15:51:02] INFO - 
+=== VERIFICAÇÃO CONCLUÍDA ===
+[2026-06-22 15:51:02] INFO -   Total Processadas : 62
+[2026-06-22 15:51:02] INFO -   Sucessos          : 0
+[2026-06-22 15:51:02] INFO -   Contas Anormais   : 0
+[2026-06-22 15:51:02] INFO -   Falhas/Erros      : 62
+[2026-06-22 15:51:02] INFO - 

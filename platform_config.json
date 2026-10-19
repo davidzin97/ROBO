@@ -1,0 +1,27 @@
+{
+  "url": "https://211.43.149.106:5002",
+  "config": {
+    "sitecode": "7037",
+    "url_domain": "https://d2jvhao61qdun9.cloudfront.net",
+    "api_url": "https://cdn.52wook.com",
+    "host": "d2jvhao61qdun9.cloudfront.net",
+    "speed_version": "1.1.50",
+    "app_version": "7.0.105",
+    "inviter_id": "",
+    "api_domains": [
+      "https://cdn.52wook.com",
+      "https://www.pay52bet.cc",
+      "https://playpix.52betpay.com",
+      "https://vivo.52wook.com",
+      "https://oppo.52wook.com",
+      "https://took.52wook.com",
+      "https://www.52betpay.cc",
+      "https://playpix.pay52bet.com",
+      "https://oppo.52sook.com",
+      "https://took.52sook.com",
+      "https://vivo.52sook.com",
+      "https://cdn.52sook.com",
+      "https://ateb25yap.pay52bet.com"
+    ]
+  }
+}

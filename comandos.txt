@@ -1,0 +1,76 @@
+python main.py --count 500 --parallel 500 --pix-type cpf --target 100 --platform bet595 --gee-token-individual --no-save-db -v --10-cetavo (RODAR COM RECUPERAÇÃO 10 CETAVO)
+
+python main.py --count 20 --parallel 20 --pix-type cpf --target 100 --platform bet595 --gee-token-individual --no-save-db (RODAR NORMAL)
+
+python main.py --count 10000 --parallel 300 --pix-type cpf --target 100 --platform 448bet --gee-token-individual --no-save-db --invite-id 79195746 (RODAR COM CONVITE/REV)
+
+python main.py --count 1 --parallel 1 --pix-type cpf --target 100 --platform hwbet --sms 1 --gee-token-individual --no-save-db (RODAR COM SMS)
+
+python main.py --count 1000000 --parallel 300 --pix-type cpf --target 15 --platform 448bet --gee-token-individual --no-save-db --gem-trava (RODAR TRAVA GEM)
+
+python main.py --count 1000000 --parallel 300 --pix-type cpf --target 250 --platform 448bet --gee-token-individual --no-save-db --hood-trava (RODAR TRAVA HOOD)
+
+python main.py --count 1000000 --parallel 500 --pix-type cpf --platform 6655 --gee-token-individual --no-save-db --double "fortune-trava-bet 12" -v (RODAR TRAVA DOUBLE FORTUNE)
+
+python main.py --count 1000000 --parallel 500 --pix-type cpf --platform be --gee-token-individual --no-save-db --ganesha "ganesha-trava-bet 9" (RODAR TRAVA GANESHA GOLD)
+
+python main.py --count 100000 --parallel 500 --pix-type cpf --platform 9rbet --gee-token-individual --no-save-db --emperor "emperor-trava-bet 9" --bet-aleatoria (RODAR TRAVA EMPEROR'S FAVOUR)
+
+python main.py --count 10000 --parallel 500 --pix-type cpf --platform 580 --gee-token-individual --no-save-db --sunshine "sunshine-aleatoria 15" (RODAR TRAVA SUNSHINE COAST)
+
+python main.py --count 1 --parallel 500 --pix-type cpf --platform bet959 --gee-token-individual --no-save-db --journey "journey-trava-bet 12" (RODAR TRAVA JOURNEY TO WEALTH)
+
+python main.py --count 1000000 --parallel 300 --pix-type cpf --target 100 --platform 448bet --gee-token-individual --no-save-db --codigo 2345554 (RODAR COM CÓDIGO TELEGRAM)
+
+python main.py --count 1000 --parallel 500 --pix-type cpf --target 100 --platform 448bet --gee-token-individual --no-save-db --aguardar-codigo (MODO 3 FASES: CRIAR CONTAS → AGUARDAR CÓDIGO NO TERMINAL → RESGATAR → JOGAR)
+
+python main.py --count 10 --parallel 5 --platform 448bet --no-proxy (RODAR SEM PROXY - IP LOCAL)
+
+python main.py --count 2500 --parallel 500 --pix-type cpf --platform bet595 --target 500 --gee-token-individual --no-save-db --firestrike (RODAR SUBIR SALDO FIRE STRIKE 2 ALL-WIN)
+
+python main.py --count 2500 --parallel 500 --pix-type cpf --platform bet595 --target 500 --gee-token-individual --no-save-db --fire88 (RODAR SUBIR SALDO FIRE 88 ALL-WIN)
+
+python main.py --count 10000 --parallel 300 --pix-type cpf --platform bet595 --target 50000 --gee-token-individual --no-save-db --spirit "spirit-trava-bet 10" (RODAR BONUS SPIRIT OF ADVENTURE)
+
+python main.py --count 2500 --parallel 500 --pix-type cpf --platform bet595 --target 500 --gee-token-individual --no-save-db --voodoo "voodoo-trava-bet 0.40" (RODAR BÔNUS VOODOO MAGIC)
+
+python main.py --count 2500 --parallel 500 --pix-type cpf --platform bet595 --target 500 --gee-token-individual --no-save-db --muertos "muertos-trava-bet 0.40" (RODAR BÔNUS MUERTOS MULTIPLIER MEGAWAYS)
+
+python main.py --count 2500 --parallel 1 --pix-type cpf --platform bet595 --target 500 --gee-token-individual --no-save-db --diamond "diamond-trava-bet 0.40" -v (RODAR BONUS DIAMOND CLUSTER LUCK)
+
+python main.py --count 2500 --parallel 1 --pix-type cpf --platform bet595 --target 500 --gee-token-individual --no-save-db --charm "charm-trava-bet 0.40" -v (RODAR BONUS LUCKY CHARM)
+
+python main.py --count 2500 --parallel 500 --pix-type cpf --platform bet595 --target 500 --gee-token-individual --no-save-db --treasure-house "treasure-house-trava-bet 2.0" -v (RODAR BÔNUS TREASURE HOUSE TRAVA DE 2)
+
+================================================================================
+LEGENDA DE COMANDOS:
+================================================================================
+--count              : QUANTIDADE TOTAL DE CONTAS A SEREM CRIADAS
+--parallel           : QUANTIDADE DE BOTS/JANELAS EM PARALELO
+--pix-type           : TIPO DE CHAVE DE SAQUE (cpf, telefone, email)
+--target             : VALOR ALVO DA BANCA (PARA PARAR DE JOGAR)
+--platform           : NOME DA PLATAFORMA (EX: 448bet, hwbet)
+--invite-id          : ID DO CONVITE (AFILIADO)
+--sms 1              : ATIVA VERIFICAÇÃO SMS (PRECISA DE SALDO NA SMS24H)
+--gee-token-individual : CADA CONTA GERA SEU PRÓPRIO TOKEN DE SEGURANÇA (RECOMENDADO)
+--no-save-db         : NÃO SALVA AS CONTAS NO BANCO DE DADOS LOCAL (SQLITE)
+--no-proxy           : DESATIVA O USO DE PROXIES (RODA NO SEU IP LOCAL)
+--gem-trava          : TENTA "TRAVAR" O BÔNUS NO JOGO GEM SAVIOUR (SALDO 15-1000)
+--hood-trava         : TENTA "TRAVAR" O BÔNUS NO JOGO HOOD VS WOLF (SALDO 15-1000)
+--double             : ATIVA TRAVA DOUBLE FORTUNE (EX: --double "fortune-trava-bet 0.9")
+--ganesha            : ATIVA TRAVA GANESHA GOLD (EX: --ganesha "ganesha-trava-bet 2.0")
+--emperor            : ATIVA TRAVA EMPEROR'S FAVOUR (EX: --emperor "emperor-trava-bet 14.40")
+--sunshine           : ATIVA TRAVA SUNSHINE COAST (EX: --sunshine "sunshine-armar-bet 15" OU --sunshine "sunshine-aleatoria 15")
+--journey            : ATIVA TRAVA JOURNEY TO THE WEALTH (EX: --journey "journey-trava-bet 12")
+--firestrike         : ATIVA MODO SUBIR SALDO FIRE STRIKE 2 ALL-WIN (PURA ALAVANCAGEM)
+--fire88             : ATIVA MODO SUBIR SALDO FIRE 88 ALL-WIN (PURA ALAVANCAGEM, 7 LINHAS)
+--spirit             : ATIVA TRAVA SPIRIT OF ADVENTURE (EX: --spirit "spirit-trava-bet 10")
+--voodoo             : ATIVA TRAVA VOODOO MAGIC (EX: --voodoo "voodoo-trava-bet 0.40")
+--muertos            : ATIVA TRAVA MUERTOS MULTIPLIER MEGAWAYS (EX: --muertos "muertos-trava-bet 0.40")
+--diamond            : ATIVA TRAVA DIAMOND CLUSTER LUCK (EX: --diamond "diamond-trava-bet 0.40")
+--charm              : ATIVA TRAVA LUCKY CHARM (EX: --charm "charm-trava-bet 0.40")
+--treasure-house     : ATIVA TRAVA TREASURE HOUSE (EX: --treasure-house "treasure-house-trava-bet 2.0")
+--codigo             : RESGATA O CÓDIGO DO TELEGRAM EM TODAS AS CONTAS (SUBSTITUI BÔNUS PADRÃO)
+--aguardar-codigo    : MODO 3 FASES INTERATIVO: (1) CRIA CONTAS+SAQUE → (2) PARA NO TERMINAL E PEDE O CÓDIGO → (3) RESGATA EM PARALELO → PERGUNTA PARALELO DE JOGO → JOGA SÓ NAS CONTAS COM SALDO
+--bet-aleatoria      : ESCOLHE UMA BET ALEATÓRIA ACIMA DE 12 NOS JOGOS SUPORTADOS
+--10-cetavo          : ATIVA RECUPERAÇÃO NO TRIPLE TIGERS COM SALDO < 0.30 (APOSTA DE 0.10)
